@@ -108,7 +108,8 @@ body{
     justify-content: center;
     align-items: center;
     margin-top: 20px;
-    border: 2px solid #777777;
+    border-top: 2px solid #777777;
+    border-bottom: 2px solid #777777;
 }
 .glob_nav_header_1 li:hover{
     border-bottom: 3px solid red;
@@ -489,7 +490,7 @@ body{
 }
 .turist input:checked::before{
     border: none;
-    background: url(./img/Frame\ 88\ —\ копия.png);
+    background: url(./img/Frame\ 88—копия.png);
 }
 .turist{
     align-items: center;
@@ -519,7 +520,7 @@ body{
 }
 .turagent input:checked::before{
     border: none;
-    background: url(./img/Frame\ 88\ —\ копия.png);
+    background: url(./img/Frame\ 88—копия.png);
 }
 .turagent{
     align-items: center;
